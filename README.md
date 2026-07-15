@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi,%20I'm%20Arathi%20S%20B%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=58&descSize=20&descColor=E0E0E0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi%20There%2C%20I'm%20Arathi%20S%20B%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=55&descColor=c9c9c9"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B266FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science+Intern+%40+Scope+India;Building+ML+Pipelines+%26+AI-Powered+Full-Stack+Apps;B.E+CSE+(AI+%26+DS)+Graduate+%7C+GPA+9.2%2F10;Turning+Data+into+Intelligent+Solutions" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B266FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Intern;Machine+Learning+Enthusiast;Building+Intelligent+Solutions+with+Python+%26+Django;Always+Learning+%7C+Always+Building+🚀"/>
+<br/>
 
-</div>
 <a href="https://arathi-s-b-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:arathisb574@gmail.com"><img src="https://img.shields.io/badge/Email-B266FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
@@ -25,16 +24,18 @@
 <td width="60%">
 
 ```yaml
-Name:         Arathi S B
-Role:         AI & Data Science Intern @ Scope India, Technopark
-Education:    B.E CSE (AI & Data Science), Narayanaguru College of Engineering
-Graduation:   2026  |  GPA: 9.2/10
-Location:     Kanyakumari, Tamil Nadu, India
+Name:          Arathi S B
+Role:          Artificial Intelligence & Data Science Intern @ Scope India, Technopark
+Education:     B.E CSE (Artificial Intelligence & Data Science)
+Institution:   Narayanaguru College of Engineering, Anna University
+Graduation:    2026  |  CGPA: 9.2 / 10
+Location:      Kanyakumari, Tamil Nadu, India
 
-Currently:    Building AI-powered full-stack applications
-Learning:     Advanced ML architectures, MLOps, System Design
-Achievements: Smart India Hackathon 2024 & 2025, ICAEMS 2026 Presenter,
-              College Symposium PPT Prize Winner
+Prior Roles:   Web Designing Intern & Python Programming Intern @ Srishti Innovative
+Currently:     Building AI-powered full-stack applications
+Learning:      Advanced Deep Learning Architectures, MLOps, System Design
+Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
+               College Symposium PPT Prize Winner | 8x Certified Professional
 ```
 
 </td>
@@ -80,6 +81,35 @@ Achievements: Smart India Hackathon 2024 & 2025, ICAEMS 2026 Presenter,
 <img src="https://img.shields.io/badge/Power_BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Tableau-1a1a2e?style=for-the-badge&logo=tableau&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/UiPath-1a1a2e?style=for-the-badge&logo=uipath&logoColor=8A2BE2"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **🧬 Lifyn-AI** | An AI-driven health/wellness assistant leveraging ML models for smart, personalized recommendations. | `Python` `ML` `AI` |
+| **🧠 Brain Tumour Segmentation** | Deep learning model for automated segmentation of brain tumours from MRI scans to support diagnosis. | `Python` `TensorFlow` `OpenCV` |
+| **🚘 Number Plate Detection** | Computer vision system for real-time vehicle number plate detection and recognition. | `Python` `OpenCV` `ML` |
+| **🤖 RPA with UiPath** | Robotic Process Automation workflows built to automate repetitive business tasks. | `UiPath` `RPA` |
+
+</div>
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+`IBM`&nbsp;&nbsp;•&nbsp;&nbsp;`ISRO`&nbsp;&nbsp;•&nbsp;&nbsp;`Infosys Springboard`&nbsp;&nbsp;•&nbsp;&nbsp;`TCS`&nbsp;&nbsp;•&nbsp;&nbsp;`LinkedIn Learning`&nbsp;&nbsp;•&nbsp;&nbsp;`Udemy`&nbsp;&nbsp;•&nbsp;&nbsp;`Cambridge English`&nbsp;&nbsp;•&nbsp;&nbsp;`Great Learning`
 
 </div>
 
