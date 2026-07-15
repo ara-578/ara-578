@@ -1,14 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6A0DAD,100:8A2BE2&height=200&section=header&text=Hi,%20I%20am%20Arathi%20S%20B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=58&descSize=17&descColor=c9c9c9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi,%20I'm%20Arathi%20S%20B%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=55&descSize=17&descColor=d9d9d9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=B266FF&center=true&vCenter=true&width=700&height=35&lines=AI+%26+Data+Science+Intern+%40+Scope+India;Building+ML+Pipelines+%26+Full-Stack+Apps;B.E+CSE+-+AI+%26+DS+%7C+GPA+9.2%2F10;Turning+Data+into+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B266FF&center=true&vCenter=true&width=750&height=40&lines=AI+%26+Data+Science+Intern+%40+Scope+India;Building+ML+Pipelines+%26+Full-Stack+Apps;B.E+CSE+-+AI+%26+DS+%7C+GPA+9.2%2F10;Turning+Data+into+Intelligent+Solutions" />
 
 <br/>
 
-<a href="https://arathi-s-b-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:arathisb574@gmail.com"><img src="https://img.shields.io/badge/Email-B266FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://arathi-s-b-portfolio.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://linkedin.com/in/arathi-s-b">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="mailto:arathisb574@gmail.com">
+  <img src="https://img.shields.io/badge/Email-B266FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/ara-578">
+  <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ara-578&label=Profile%20Views&color=8a2be2&style=for-the-badge"/>
 
 </div>
 
@@ -16,53 +29,58 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-<div align="center">
 <table>
 <tr>
-<td width="60%">
+<td width="58%" valign="top">
 
 ```yaml
 Name:          Arathi S B
-Role:          Artificial Intelligence & Data Science Intern @ Scope India, Technopark
+Role:          AI & Data Science Intern @ Scope India, Technopark
 Education:     B.E CSE (Artificial Intelligence & Data Science)
 Institution:   Narayanaguru College of Engineering, Anna University
 Graduation:    2026  |  CGPA: 9.2 / 10
 Location:      Kanyakumari, Tamil Nadu, India
 
-Prior Roles:   Web Designing Intern & Python Programming Intern @ Srishti Innovative
+Prior Roles:   Web Designing Intern & Python Programming Intern
+               @ Srishti Innovative
 Currently:     Building AI-powered full-stack applications
-Learning:      Advanced Deep Learning Architectures, MLOps, System Design
-Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
-               College Symposium PPT Prize Winner | 8x Certified Professional
+Learning:      Advanced Deep Learning Architectures, MLOps,
+               System Design
+
+Achievements:  🏆 Smart India Hackathon 2024 & 2025
+               🏆 ICAEMS 2026 Presenter
+               🏆 College Symposium PPT Prize Winner
+               🏆 8x Certified Professional
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center" valign="top">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ara-578&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b266ff&icon_color=8a2be2&text_color=c9c9c9&count_private=true" width="100%"/>
+
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages & Core**
-<br/>
+
 <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=8A2BE2"/>
 
 **AI / ML / Data Science**
-<br/>
+
 <img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=8A2BE2"/>
@@ -70,13 +88,13 @@ Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
 <img src="https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=8A2BE2"/>
 
 **Web & Backend**
-<br/>
+
 <img src="https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=8A2BE2"/>
 
 **Tools & Platforms**
-<br/>
+
 <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Power_BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Tableau-1a1a2e?style=for-the-badge&logo=tableau&logoColor=8A2BE2"/>
@@ -88,16 +106,16 @@ Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **🧬 Lifyn-AI** | An AI-driven health/wellness assistant leveraging ML models for smart, personalized recommendations. | `Python` `ML` `AI` |
-| **🧠 Brain Tumour Segmentation** | Deep learning model for automated segmentation of brain tumours from MRI scans to support diagnosis. | `Python` `TensorFlow` `OpenCV` |
-| **🚘 Number Plate Detection** | Computer vision system for real-time vehicle number plate detection and recognition. | `Python` `OpenCV` `ML` |
-| **🤖 RPA with UiPath** | Robotic Process Automation workflows built to automate repetitive business tasks. | `UiPath` `RPA` |
+| 🧬 **Lifyn-AI** | An AI-driven health/wellness assistant leveraging ML models for smart, personalized recommendations. | `Python` `ML` `AI` |
+| 🧠 **Brain Tumour Segmentation** | Deep learning model for automated segmentation of brain tumours from MRI scans to support diagnosis. | `Python` `TensorFlow` `OpenCV` |
+| 🚘 **Number Plate Detection** | Computer vision system for real-time vehicle number plate detection and recognition. | `Python` `OpenCV` `ML` |
+| 🤖 **RPA with UiPath** | Robotic Process Automation workflows built to automate repetitive business tasks. | `UiPath` `RPA` |
 
 </div>
 
@@ -105,11 +123,18 @@ Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 <div align="center">
 
-`IBM`&nbsp;&nbsp;•&nbsp;&nbsp;`ISRO`&nbsp;&nbsp;•&nbsp;&nbsp;`Infosys Springboard`&nbsp;&nbsp;•&nbsp;&nbsp;`TCS`&nbsp;&nbsp;•&nbsp;&nbsp;`LinkedIn Learning`&nbsp;&nbsp;•&nbsp;&nbsp;`Udemy`&nbsp;&nbsp;•&nbsp;&nbsp;`Cambridge English`&nbsp;&nbsp;•&nbsp;&nbsp;`Great Learning`
+<img src="https://img.shields.io/badge/IBM-1a1a2e?style=flat-square&logo=ibm&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/ISRO-1a1a2e?style=flat-square&logo=nasa&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/Infosys_Springboard-1a1a2e?style=flat-square&logo=infosys&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/TCS-1a1a2e?style=flat-square&logo=tcs&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/LinkedIn_Learning-1a1a2e?style=flat-square&logo=linkedin&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/Udemy-1a1a2e?style=flat-square&logo=udemy&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/Cambridge_English-1a1a2e?style=flat-square&logo=cambridge&logoColor=B266FF"/>
+<img src="https://img.shields.io/badge/Great_Learning-1a1a2e?style=flat-square&logo=googleclassroom&logoColor=B266FF"/>
 
 </div>
 
@@ -117,56 +142,68 @@ Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
 
 ---
 
-## 💻 Coding Profiles
+### 💻 Coding Profiles
 
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-8A2BE2?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-B266FF?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-8A2BE2?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-B266FF?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+
 </div>
 
 <br/>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ara-578&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b266ff&icon_color=8a2be2&text_color=c9c9c9" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=ara-578&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=b266ff&currStreakLabel=b266ff" width="49%"/>
+
 <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ara-578&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b266ff&text_color=c9c9c9" width="50%"/>
+
 </div>
 
 <br/>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ara-578&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ara-578&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
 </div>
 
 <br/>
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ara-578&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b266ff&line=8a2be2&point=ffffff" width="95%"/>
+
 </div>
 
 <br/>
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/ara-578/ara-578/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
 </div>
 
 > ℹ️ The snake animation is auto-generated by the `snk` GitHub Action (`platane/snk`) defined in `.github/workflows/snake.yml`. It runs on a schedule and pushes the SVG to the `output` branch automatically — no manual steps needed once this repo is pushed.
@@ -175,7 +212,7 @@ Achievements:  Smart India Hackathon 2024 & 2025 | ICAEMS 2026 Presenter
 
 ---
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
 ```yaml
 Learning:  ["Advanced Deep Learning Architectures", "MLOps", "System Design"]
@@ -188,13 +225,15 @@ Open To:   ["Full-Time AI/ML Roles", "Software Engineering Roles", "Collaboratio
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
+
 <a href="https://arathi-s-b-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/ara-578"><img src="https://img.shields.io/badge/GitHub-Follow-B266FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:arathisb574@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+
 </div>
 
 <br/>
