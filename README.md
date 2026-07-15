@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi,%20I'm%20Arathi%20S%20B%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=60&descSize=20&descColor=E8E8E8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi,%20I'm%20Arathi%20S%20B%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=58&descSize=20&descColor=E0E0E0"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=BB86FC&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Intern;Passionate+about+Machine+Learning+%26+AI;Python+%7C+Django+%7C+Data+Science;Creating+Smart+Applications+Every+Day;Welcome+to+My+GitHub+Profile!+⭐"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B266FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Intern;Machine+Learning+Enthusiast;Building+Intelligent+Solutions+with+Python+%26+Django;Always+Learning+%7C+Always+Building+🚀"/>
 
 </div>
-
 <a href="https://arathi-s-b-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:arathisb574@gmail.com"><img src="https://img.shields.io/badge/Email-B266FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
