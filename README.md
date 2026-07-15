@@ -294,10 +294,10 @@ Open To:   ["Full-Time AI/ML Roles", "Software Engineering Roles", "Collaboratio
 ## 📫 Connect With Me
  
 <div align="center">
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:arathisb574@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/ara-578"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-B266FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="<a href="https://arathi-s-b-portfolio.onrender.com">"><img src="https://img.shields.io/badge/Portfolio-B266FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
  
 </div>
 <br/>
