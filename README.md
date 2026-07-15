@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/badge/📍-Kanyakumari,%20Tamil%20Nadu-4B0082?style=for-the-badge&labelColor=1a1a2e"/>
 <br/><br/>
  
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="<a href="https://arathi-s-b-portfolio.onrender.com">"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:arathisb574@example.com"><img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/ara-578"><img src="https://img.shields.io/badge/GitHub-Follow-B266FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
  
 <br/><br/>
@@ -25,17 +25,15 @@
  
 ## 🪐 About Me
  
-```yaml
 role: "AI & Data Science Intern @ Scope India, Technopark"
 education: "Final Year B.E. CSE (AI & Data Science), Anna University — 2026"
 focus: ["Machine Learning", "Deep Learning", "Computer Vision", "Full-Stack Engineering"]
 mindset: "Product-first engineer who ships end-to-end intelligent systems"
 ```
  
-I'm an AI & Data Science engineer who enjoys turning research-grade ideas into deployable products — from training computer vision models to shipping the full-stack app around them. Currently interning at **Scope India (Technopark, Trivandrum)**, with prior experience building web applications and automation pipelines at **Srishti Innovative**.
- 
-I've represented my institution at **Smart India Hackathon (2024 & 2025)** and presented work at **ICAEMS 2026**, an international conference. I care about clean architecture, measurable model performance, and interfaces people actually enjoy using.
- 
+AI & Data Science Engineer passionate about building intelligent, data-driven solutions.
+Skilled in Python, Machine Learning, Deep Learning, Django, and Data Analytics.
+Committed to continuous learning and creating impactful technology that solves real-world problems.
 **🎯 Open To:** Full-time AI/ML Engineer, Data Scientist, and Software Engineer roles (2026 graduate)
  
 <br/>
