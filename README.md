@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi,%20I'm%20Arathi%20S%20B%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Intern&descAlignY=55&descSize=17&descColor=d9d9d9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Hi,%20I'm%20Arathi%20S%20B%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20DS%20Intern&descAlignY=55&descSize=17&descColor=d9d9d9"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B266FF&center=true&vCenter=true&width=750&height=40&lines=AI+%26+Data+Science+Intern+%40+Scope+India;Building+ML+Pipelines+%26+Full-Stack+Apps;B.E+CSE+-+AI+%26+DS+%7C+GPA+9.2%2F10;Turning+Data+into+Intelligent+Solutions" />
 
