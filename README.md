@@ -8,10 +8,9 @@
 <img src="https://img.shields.io/badge/GPA-9.2%2F10-8A2BE2?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/📍-Kanyakumari,%20Tamil%20Nadu-4B0082?style=for-the-badge&labelColor=1a1a2e"/>
 <br/><br/>
- 
-<a href="<a href="https://arathi-s-b-portfolio.onrender.com">"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://arathi-s-b-portfolio.onrender.com">"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/in/arathi-s-b"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:arathisb574@example.com"><img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:arathisb574@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/ara-578"><img src="https://img.shields.io/badge/GitHub-Follow-B266FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
  
 <br/><br/>
